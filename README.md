@@ -1,4 +1,4 @@
-# The list of original 15 rules
+# The list of original 16 rules
 **Note:** There is no rule 5, 10, 11, 12, 18, 19, 20, 21, 22
 
 | SN | Name | Description |
