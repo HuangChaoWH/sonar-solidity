@@ -18,6 +18,7 @@
 | ExternalRule17 | GuardCheckPatternCheck ||
 | ExternalRule22 | CheckEffectsCheck ||
 | ExternalRule23 | BytesLowerGasCheck ||
+| ExternalRule24 | TightVariablePackingCheck ||
 
 ---
 # The list of new 40 rules
